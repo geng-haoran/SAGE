@@ -12,7 +12,7 @@
     <a href="https://arxiv.org/abs/2312.01307" target="_blank">
     <img src="https://img.shields.io/badge/Paper-arXiv-green" alt="Paper arXiv"></a>
     <a href="https://geometry.stanford.edu/projects/sage/" target="_blank">
-    <img src="https://img.shields.io/badge/Page-GAPartNet-blue" alt="Project Page"/></a>
+    <img src="https://img.shields.io/badge/Page-SAGE-blue" alt="Project Page"/></a>
 </div>
 </h2>
 
