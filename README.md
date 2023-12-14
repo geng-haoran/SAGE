@@ -21,12 +21,17 @@ This is the official repository of [**SAGE🌿: Bridging Semantic and Actionable
 For more information, please visit our [**project page**](https://geometry.stanford.edu/projects/sage/).
 
 ## SAGE overview
-<div style="text-align: center">
+<div align="center">
 <img src="imgs/teasor.jpg"/>
 </div>
 
+### Demonstration of SAGE on challening articulated-object manipulation
+<div align="center">
+<img src="imgs/demo1.gif"/>
+</div>
+
 ### Demonstration of SAGE on a variety of articulated objects
-<div style="text-align: center">
+<div align="center">
 <img src="imgs/demo.gif"/>
 </div>
 
