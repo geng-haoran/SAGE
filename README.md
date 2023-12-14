@@ -27,7 +27,7 @@ For more information, please visit our [**project page**](https://geometry.stanf
 
 ### Demonstration of SAGE on challening articulated-object manipulation
 <div align="center">
-<img src="imgs/demo1.gif"/>
+<img src="imgs/demo0.gif"/>
 </div>
 
 ### Demonstration of SAGE on a variety of articulated objects
