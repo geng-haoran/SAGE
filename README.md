@@ -20,9 +20,12 @@ This is the official repository of [**SAGE🌿: Bridging Semantic and Actionable
 
 For more information, please visit our [**project page**](https://geometry.stanford.edu/projects/sage/).
 
-![teaser](imgs/teasor.jpg)
+## SAGE overview
+<img src="imgs/teasor.jpg" div align=center />
 
-![demo](imgs/demo.gif)
+### Demonstration of SAGE on a variety of articulated objects
+<img src="imgs/demo.gif" div align=center />
+
 
 ## Benchmark & Code & Instructions
 Coming soon...
